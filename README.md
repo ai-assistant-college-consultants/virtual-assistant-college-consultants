@@ -60,10 +60,11 @@ This virtual assistant is perfect for:
 
 ## 🔗 Related AI Solutions
 
-- 👉 [AI Assistant for College Consultants](https://ai-assistant-college-consultants.github.io/ai-assistant-college-consultants/)  
-- 👉 [AI Answering Service for Education Consultants](https://ai-assistant-college-consultants.github.io/ai-answering-service-education/)  
-- 👉 [Appointment Booking AI for Education Consultants](https://ai-assistant-college-consultants.github.io/appointment-booking-ai-consultants/)  
-- 👉 [AI Automation Tools](https://chaaropik.com/connect)  
+- [AI Assistant for College Consultants](https://ai-assistant-college-consultants.github.io/ai-assistant-college-consultants/)
+- [AI Answering Service for Education Consultants](https://ai-assistant-college-consultants.github.io/ai-answering-service-education/)
+- [Appointment Booking AI for Education Consultants](https://ai-assistant-college-consultants.github.io/appointment-booking-ai-consultants/)
+- [Virtual Assistant for College Consultants](https://ai-assistant-college-consultants.github.io/virtual-assistant-college-consultants/)
+- [AI Chatbot for Education Consultants](https://ai-assistant-college-consultants.github.io/ai-chatbot-education-consultants/)
 
 ---
 
